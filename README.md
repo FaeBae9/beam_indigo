@@ -141,3 +141,10 @@ This project is licensed under the MIT License.
 **Bridging Empowerment, Achieving Mastery**
 
 *"Every journey begins with a single step. BEAM Indigo exists to help bridge the distance between who you are today and who you have the potential to become."*
+
+
+## Copyright
+
+© 2026 Bethany Campbell / WQM Enterprises. All Rights Reserved.
+
+BEAM Indigo and all associated source code, designs, documentation, branding, and content are the intellectual property of Bethany Campbell and WQM Enterprises. Unauthorized copying, distribution, modification, or commercial use is prohibited without prior written permission.
