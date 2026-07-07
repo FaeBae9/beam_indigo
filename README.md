@@ -130,11 +130,6 @@ This repository is currently maintained as the primary development project for B
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 # BEAM
 
